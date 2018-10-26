@@ -5,6 +5,6 @@ Campsites at popular campgrounds can be almost impossible to reserve, especially
 
 CampsScrape automates this process for the user and allows them reserve campsites ASAP. Given a date range and specified campground, it'll web scrape the reservation.gov website for available sites and notify the user via slack, email, or desktop
 
-![Slack notification](https://github.com/thomas-archer/CampScrape/blob/master/Screen%20Shot%202018-10-26%20at%202.43.36%20PM.png)
+![Slack notification](https://github.com/thomas-archer/CampScrape/blob/master/Screen%20Shot%202018-10-26%20at%202.43.36%20PM.png | width = 250)
 
 It can be run via cronjob to check for available sites as often as the user desires. I typically run it remotely using an AWS EC2 instance to consistently run it every five minutes. Overall it works great for finding campsites at popular campgrounds the week-of as people often cancel their reservation within the week leading up to their trip.
