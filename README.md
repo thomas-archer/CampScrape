@@ -1,5 +1,5 @@
 # CampScrape
-Checks for availalbe campsites and notifies user with reservation links.
+Checks for available campsites and notifies user with reservation links.
 
 Campsites at popular campgrounds can be almost impossible to reserve, especially on short notice. Recreation.gov allows campers to book either online typically up to six months in advance. It can be difficult to plan trips that far in advance, but popular locations such as Yosemite will become fully booked in days. Without a waitlist or notification system built into their system, the only way to secure a campsite from a fully booked campground on short notice is to periodically refresh and check the page for any possible cancellations.
 
